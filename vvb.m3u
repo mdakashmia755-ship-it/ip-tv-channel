@@ -1,0 +1,34 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# --- Movies & Entertainment ---
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="India / Movies / Hindi",&PICTURES HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105505/AndPicturesHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="India / Movies / English",&PRIVE HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="India / Entertainment / Hindi",&TV HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLl75M7LwOg3DlkYV6tkNcVhAD18PMZU77FtWhpohlh6BUbv5F9hHg3KVjLrE&s" group-title="USA / Movies / English",24 HOUR FREE MOVIES
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+
+# --- News Channels ---
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl93TrgqM3LbdtgMPdhWErc9MAiD1ZRLscX9PfzCikk5hoz6fyx5aN7rJ-sw&s" group-title="Bangladesh / News / Bangla",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnp9_yR-SOwVGq4xdFc_4NHsbk16iGxAbzeSLFE2ZfAfkrXCJ-ksJDMgR3RQ&s" group-title="India / News / English",INDIA TODAY
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_lj9j7Pc7PeA526HehI0GWU62Xl-rBFZFeA1TqxlVsaOlwkIGUhraTchaA&s" group-title="Iran / News / Persian",IRAN INTERNATIONAL
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJbwKbawOuQBdNTKPCr46KyPdc1RftcI2i1lW8HU2YJj8gYeNcNsUSgB6uKE&s" group-title="Bangladesh / News / Bangla",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
