@@ -1,0 +1,658 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="India / Movies / Hindi",&PICTURES HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105505/AndPicturesHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="India / Movies / English",&PRIVE HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="India / Entertainment / Hindi",&TV HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLl75M7LwOg3DlkYV6tkNcVhAD18PMZU77FtWhpohlh6BUbv5F9hHg3KVjLrE&s" group-title="USA / Movies / English",24 HOUR FREE MOVIES
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPFKepS5IzroGpD5aOTzpKO8cm0NCdST0IXE60PGDK77MmvQ_5h1kwd5tKS0&s" group-title="USA / Movies / Classic",30A TV CLASSIC MOVIES
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfkULu5W1mQOw5MQP0WV22HKxkqGeVxgXGfcv4rKjx49cXLf-Z_-wfRymBwk&s" group-title="India / Music / Marathi",9X JHAKAAS
+https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgzaTxWsv50p7yDLa03F1aWS2phrSasq9wLYIEYVj6o97VWj3aKSZN-OCC9Q&s" group-title="India / Music / Punjabi",9X TASHAN
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyKaIXOHDjh66KUXL8uT_tv6gY_N_LDX7Ex7xXfBBlhoSqKtDC452kD66Hvg&s" group-title="India / Music / Hindi",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDNPVbxgKNFZIyO-Iscbt6HyZ7_MYe_nrTHO1RvZNXfLp2pQzTIjbR555XhIU&s" group-title="India / News / Hindi",AAJ TAK
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXC305Vztaq7f_LtAQyW9A1VA5o_6mC-e5aCSO5ZCpV-9APs5K52l5rarlA&s" group-title="USA / Movies / Religious",ABN BIBLE MOVIES
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4RcazZqLAuEG6Cf6ez45GcBpbLzjzC95o9pPbpRBna2Ht4MljE97a6wtXzA&s" group-title="India / Movies / Hindi",ABZY DHAKAD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsTahFKkk6UuXAp7QXDSQWwiplfr5luryryTdKBF9FTsgHqqoN41Ug-QGrrYw&s" group-title="India / Movies / Hindi",ABZY MOVIES
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGHBpUDexf0vE9V9sQZCu3-cKkrX4ReG5hX706ZonBy9-eW3as45bxPih1dtY&s" group-title="Greece / Movies / Greek",ACTION 24 HD
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREV1JsMo063IaKe0KAbnRuu8JJdVbcHl97ArJdflPYruK1aJnz1LN9oLnK2g&s" group-title="Iran / Movies / Farsi",AFRA FILM
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiw2HtpQp5wpdd99bkY82lTeQH1gEIKm_sVBYd3TtAZRCCJaQ5RJCXzDobkoQ&s" group-title="Qatar / News / English",AL JAZEERA
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAfFpNlxBMvyM0ba0rOfOBhJb9QZkAIVbHg9Xt-PTjguCWJjqwe2wSFTXOw&s" group-title="USA / Movies / Horror",AMERICAN HORRORS
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMI_B2m8a17tCXx8rPtt3h2CNZ--p86P_N9yxB2Kmh03WM3P1ldy8EWoOiz8I&s" group-title="Netherlands / Movies / Classic",ARTFLIX MOVIE CLASSICS
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-DTx0VrfC-ydD--Mcj4zQdY7HSfFyJTG12Kg2dl6tf0uDbu_4ZvWSkJYb-w&s" group-title="Bangladesh / Entertainment / Bangla",ATN BANGLA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3jVMDwh0xUoGjQgKIa9Z9dho5TiK1F0Wn8DcCoGHmCnOfmSORfWG8FBM0g&s" group-title="Bangladesh / Kids / Bangla",ATN KIDS
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWDwLkmH1Ox00aCanw1fUtn0T3TZNNUk0c1-5FT-eiyEwOmCm27bU1mwGyg&s" group-title="Spain / Movies / Spanish",AURORA MEDIA FILMS
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKY82-2ED-eGnZaUgh0lQ3cUBu4ldIW2ApSzkaSIwc-9bzpb93H26rHI0FeoM&s" group-title="India / Movies / Bhojpuri",B4U BHOJPURI HD
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjB4EkC9zam3en6ygP-JQSIK7VnO6LkAHTJZ2JPLPKjR4crTCsQIuEu8Z0fA&s" group-title="India / Movies / Hindi",B4U KADAK HD
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTgFllJcCZNcKPmw89X6ImuI8KAiTjeRC7srtb9P4q3fK5W3pKB8KIThfV4vs&s" group-title="India / Movies / Hindi",B4U MOVIES INDIA HD
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8sPLSiyqONvMOHXwHP4yOWbyJEUAFuVg1WNUSaJRzgJzA0Q_oMoS8OgHBJw&s" group-title="India / Music / Hindi",B4U MUSIC HD
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSROZmUo3BDSlcjtignoJ0msVuXOWAt7rGVbqR90dudhwpfpL4jiQuJ2K6AaRg&s" group-title="India / Music / Punjabi",BALLE BALLE
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNi36GOyihRDeP2Oe-57zwjJFzeWC8QrG7vr4e_Eg09wIUj0I-zhiQf5oUG0&s" group-title="Bangladesh / Entertainment / Bangla",BANGLAVISION
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdaWI8qgk2MRtIoG9qf1DfchXsIGLNvad4ep7TvOaGzg27SgDuUwPUUspm5g&s" group-title="International / Sports / Football",BEIN SPORTS
+http://135.125.109.73:9000/beinsport1_.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7ZoegeWbcM4z0muygD5mS6KTJX964PnQQJg025-kp277v4ZPAXP9dsRR8Dw&s" group-title="Thailand / Movies / Thai",BFLIX MOVIES
+http://163.61.227.29:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHuGZOYvaWVkbsb_msqJRS1P1fPKOJT5Sde4IgQjrRY-pqDmuFXIkWTk3Hw&s" group-title="India / Movies / Bhojpuri",BHOJPURI CINEMA
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDXHZDj-p7wGXcSoblc4EPIjEgnC8ZquESSqKw5fQLEq98wLGkc54KgO0NiA&s" group-title="India / Entertainment / Hindi",BIG MAGIC
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wVjzg1LPe_i1_99ogSjti31ohyyZqehSwkGHe_UYc7qpcl9CrmDRPM3QgVg&s" group-title="India / Movies / Hindi",BOLLYWOOD MOVIES
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jagrqjHQsRmCIUJyhAtdsNavaEgP5SO7z_25PoAyd6YPpLy3nswMaTDyiv0&s" group-title="India / Movies / Hindi",BOLLYWOOD MOVIES 2
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFF1ZngTzdbzTQEPP0_WNvSf_9ii-fLpq3aDUrvTg7b2PwB6mNmIHm6ZZwg3k&s" group-title="Iran / Movies / Farsi",BRAVO FARSI TV
+https://bravoohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hondH6o9VmBtd80w4n-ASm-0Nm8zWtF3fOQmS7KgucPsnpsBN1nqA6kgag&s" group-title="Bangladesh / General / Bangla",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWojgzgxi1v2uFUo4P1JvJFF6WPnbAHZPp_bVDVG8fgoZ97n2yPoGpGxR6Ww&s" group-title="Iran / Movies / Farsi",CAFE FILM
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNmZaoBX6emDws4aXMOy8HmwgYjb5OY-BeD2vY0oT9Y_m9vmCklBWPS-1r4A&s" group-title="China / News / English",CGTN NEWS
+https://0472.org/hls/cgtn.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIX1xVOTwpAktGh5pIno-0DOgC6gqva8WHTo3GLavfDW-PeyZvEwgroE6QKgA&s" group-title="Bangladesh / News / Bangla",CHANNEL 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wUtQ0zsCH4BKE7_bVdY8_TBPsRjwx9rqRY1ZG4W1OJvWqtgl7YBYYd17ug&s" group-title="Bangladesh / News / Bangla",CHANNEL 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZaOPz0Z4fMAHZEI563qZmSv9mmEDKQV2zbQn7o9U-6ihA0ShWI1ZAMpOpg&s" group-title="Bangladesh / Entertainment / Bangla",CHANNEL I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4xQknEnBevIhnprzWOOilMK2SG-6qXIxH6UneBb9K4qEmV2azGOTIx9vc9vQ&s" group-title="USA / Movies / Action",CHARGE! HD
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4uHaUfw0WAKEomZLqvjqQbWlacEFR0o1dvu7SvkYupzeNghrkgmqx8zWS7w&s" group-title="Russia / Movies / Russian",CINEMA
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdbbGmrtIoY-3Wc6tEHd0KA-FjcAbbNV0aqtiv_v_z3gWHcae0GkITqdtGbg&s" group-title="International / Movies / English",CINEMAX
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwQgQz7uD1oz3Mb1T3FfmN4lMaghofSYGHKdOa2Jo-fOb_VwbXrCeo9CjAno&s" group-title="USA / Movies / Classic",CINEVAULT 80S
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ39IIZYWXdS9ARnxjueuQSsslG9-yfxCx7BuS7firYP8-gfigwcU-ymitrmg&s" group-title="USA / Movies / Classic",CLASSIC CINEMA
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWt1bCtOk4p10cCy-oFgBlNnjlZ9F8nTs34smUMq7zmrurLOHNUQmPRZ7hiw&s" group-title="France / Movies / Classic",CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOsauvyraywNYLkJSmV4h6BjnkI8uMBMYZZAtMA6io80ZYZlUq6MMJdso0pQ&s" group-title="Singapore / News / English",CNA NEWS
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotcG05Clk49TbIYNNhyKnatv9JHKpejIxeMoegBdpPC5ICc3hvUMJOOuBDw&s" group-title="Australia / Movies / English",CTB PERTH MOVIES
+https://movies.ctbperth.net.au/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIfwY_d5ERMivULyvYCRDq4yBjS2TqA0MFXR-Gat8DbKahiqK76Q4_iP-aA&s" group-title="India / Sports / Hindi",DD SPORTS
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwm2gmHfzLQNyGZZk-duTGb57pRz3vXdixFttn6Mg85K4KRxOoy0cIwMNA6A&s" group-title="India / Music / Hindi",DHAMAAL
+https://cdn-1.pishow.tv/live/1291/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIfIhOA8ACdjPRhQJKlBrmnFCS1vnhO7UYAmpDAa813HX4ZaKphDwkbgw3w&s" group-title="India / Music / Bengali",DHOOM MUSIC
+https://cdn-1.pishow.tv/live/1456/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7vNgkuu1OeLwh5Rer2RamRaJAio5VtPk1rY8GGHtiVTwnrVJaIMF6NFDmg&s" group-title="Bangladesh / Entertainment / Bangla",DIPTO TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzwgWlj_uGyIBMH543PxRPa5L20Silv-WmzqRANIXnLWbvzjhehkTwgrFcmY&s" group-title="Netherlands / Movies / Short Films",DISCOVERFILM
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUzYXy6eJcUm7smeCaMeUeGo-vJCi73mBJXJIl5TWquCeCw8VIXvPwDJCEGs&s" group-title="India / Kids / Bengali",DORAEMON 24/7
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_FdljvkfxxnnSFto-5A61FmXQ9yjDGJYnBK4VvGoNXKyi18-05oIpi9FWsY&s" group-title="International / Kids / English",DUCK TV
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMh5OnPjUcqf6h0eX8Bu5sVcuIo-DXYMvAG1y2BJm6xDr5aScX-nWRddWSMyg&s" group-title="Bangladesh / Kids / Bangla",DURONTO TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFg1JjfYyl1etmR2Qtxg-9Rg_3-p6m0uyp_3Sk-WNGHzmzPoAzEX32IZV8A&s" group-title="Germany / News / English",DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6KPvxvxhhc5MKzS0DzsNMX-4TqvbzxcBZnmW0faRbsCFTr9QIM6gayCpA2o&s" group-title="USA / Movies / English",EBS CINEMA
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGoYDeOeMiudHoKu_Fn43INAFGnqzG04GFwUweJEl7YLUMpWTtRmOEd0Nb-x0&s" group-title="Bangladesh / News / Bangla",EKATTOR TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTVyHjp20Lb72ilOQP06mz3v2ubP2gApI4BDQdnnoC5LSfKxTPsbEE04UzQ&s" group-title="India / Movies / Telugu",ETV CINEMA HD
+https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTcpzchrJdsHYkgukY8Bt-zDQlqNzp5yI9XAhPN9C7aTQjkNG3rQN-685a4Q&s" group-title="India / Music / Telugu",ETV MUSIC HD
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-Do_TDb_eJcLapzLZxwGHqIVf-MlK8ltTdrJi1FhaQILzIrPnZmbTIJh3A&s" group-title="International / Sports / Football",FIFA PLUS
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwejl5la_lzyurEhUkQI_tynnmJlWRJL5Z7aAowfYRkDrC66Ifi2_L8DV2A&s" group-title="India / Movies / Bhojpuri",FILAMCHI BHOJPURI HD
+https://epiconvh.akamaized.net/live/filamchi/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwtP7qR__jQCNx6Z-oi95ivLSe-7cBq65q9IvVg-IG_OXZscXtXnHQyjJpoQ&s" group-title="UK / Movies / English",FILM4 HD
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTneqDumv9Bl_ouLzbRhz0dL0w3GOvRDdaiwafoo5VYT4InUgq_F2zvY2jWTg&s" group-title="France / News / English",FRANCE 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS22ddzTtLsVqxVKo8Q1hKsXrSkut3Y-pvWPj0BL2t3qjGAb3NBd-OneIazAg&s" group-title="USA / Movies / English",FX MOVIE CHANNEL
+https://tvpass.org/live/FXMovieChannel/hd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4ndb_t8GvRaXBtjdA26x1uCbT8b7lY1q-h0D-44VgkRavJ9P5pdgYsxiCA&s" group-title="Iran / Movies / Farsi",GEM PIXEL
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRwLyHLmO9IefOeyyjZTfKY1ynBUfrLXO2vzX7znUUB4U5D3F8WTkzsTl4ag&s" group-title="Canada / News / English",GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2uHhe8x3SCI6Ldyg9_dFlbwmii0L0_smBzbv3Bj69wpgZSbu-p7CT9Rek-g&s" group-title="Iran / Movies / Farsi",GOLD STAR
+https://moviethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqHbiizV6TpOvvI47OMxb1s9SQ5xSxS5F1xmnVsR7_YI8gBdrizwNsZ-lUrVQ&s" group-title="India / News / Hindi",GOOD NEWS TODAY
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAK9aTTA0UbdNw2b5dDHSB3r_B27WUVAlnWNu6uRCNQ24ez_M9zFIgdlz_y0&s" group-title="India / Kids / Bengali",GOPAL BHAR 24/7
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaq2AMYm-wCva8A3hUEuwDAsBzdpQB_4g1NxIwcPK8sEkbQoCLgg6NTbD8RbQ&s" group-title="Iran / Movies / Farsi",GRAND CINEMA
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KAr5IdhDxBKpLpXl5oOjkd47MLMsztU61Nh_dpQAUfE4vtzFHnIGnOWKFw&s" group-title="Germany / Movies / Western",GRJNGO WESTERN MOVIES
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1Ox1iJsVreOu5XIRvUmUOlhIyLcB0U4SY85NWDPPWn2GRDOAD87_OZ6OGg&s" group-title="Europe / Movies / Music",GROOVY TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKozTAN1uZQoSe1onC4q6rFREW3NO8gmGe-pX9H0hAOl47bMcVrp-snWSSoeY&s" group-title="China / Movies / Chinese",HARBIN MOVIE CHANNEL
+https://stream.hrbtv.net/yspd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgn9Iw12JafVFTcYf1guU6meAPaEwkRACzDdhvjyWjH-efMiqy7kSfp9RZ8Q&s" group-title="International / Movies / English",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZEQAfrL4GPG-1AeKjphdSA4DTRWro4ocLGJojNqXO6jwJZ6RbCLCemcdo_Q&s" group-title="International / Movies / English",HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvo0I3SJE_WFuMxcDcbUVwJt0tcC52i3rt3-ca2fO1-833nh2o1nx8vwNiQY&s" group-title="International / Movies / English",HBO HITS
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ80R8rBrLWaxq_FIgieqkABuEYpPv0VtKXso8NBE387WoNSjrpj_jNy1AMQw&s" group-title="Iran / Movies / Farsi",HOME PLUS
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAMinjiEwGkxCJjz818YPS7dpUwjMYOcVEEADXJxPFpsKKOn90xvSKgEUJw&s" group-title="Iran / Movies / Farsi",ICC PLUS HD
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmDPGeSYdJgch3RPvZiEwiDzKtByJo0BMMizYquq9Zg1kPcDGFs_df4izCxk&s" group-title="USA / Movies / English",IFC EAST
+https://tvpass.org/live/IFCEast/hd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4DOeUkdkEQWcg1JIGr3-hsC3jJTZLfUJnuQXiIXIOlVThoxVBzJlpBaiXA&s" group-title="Iran / Movies / Farsi/Dari",IFILM 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Mt1r2w0bZrSqRBqm0LwbmiL6FgBdnnNbqm93R_1HNg0OhazQYfeQnLQIFK4&s" group-title="Iran / Movies / Arabic",IFILM ARABIC
+https://live.presstv.ir/hls/ifilmar.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-Lp0Kz0U8Z9j7-f3G9_Fv5J-O0T7y8p_Q&s" group-title="Iran / Movies / English",IFILM ENGLISH
+https://live.presstv.ir/hls/ifilmtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl93TrgqM3LbdtgMPdhWErc9MAiD1ZRLscX9PfzCikk5hoz6fyx5aN7rJ-sw&s" group-title="Bangladesh / News / Bangla",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnp9_yR-SOwVGq4xdFc_4NHsbk16iGxAbzeSLFE2ZfAfkrXCJ-ksJDMgR3RQ&s" group-title="India / News / English",INDIA TODAY
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_lj9j7Pc7PeA526HehI0GWU62Xl-rBFZFeA1TqxlVsaOlwkIGUhraTchaA&s" group-title="Iran / News / Persian",IRAN INTERNATIONAL
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJbwKbawOuQBdNTKPCr46KyPdc1RftcI2i1lW8HU2YJj8gYeNcNsUSgB6uKE&s" group-title="Bangladesh / News / Bangla",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGZVsxUJAIt_1bvl_9T8539UNdBaEHI4Nl-p41FpzA04JYiTgQUb3DFWqGuug&s" group-title="India / Entertainment / Hindi",JIO CINEMA
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExI8mRRvgtemokVOvwOnOqPa_Rjz_REZZ0sQOMJBZGftuMf-SY6UGyDule6w&s" group-title="International / Music / English",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08K_e4pRgHbUBjvYe606EvHl55oDX2vTfqGjjNvyv_P8TpdhF3J6llx446Q&s" group-title="International / Kids / English",JUNGLE BOOK
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Russia / Movies / Russian",KINOLIVING HD
+https://strm.yandex.ru/kal/kinoliving/kinoliving0_v149_640_360_250.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Russia / Movies / Russian",KINOMENU HD
+http://185.70.130.3:8080/kinomenu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH3msqlg0xUkVVS52KeBmaHsxEEyu5bLZ81X4auLPl4gMdVMpkRe_p6d0HVpc&s" group-title="India / Movies / Bengali",KOLKATA MOVIES
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iraq / Movies / Kurdish",LANA TV
+https://lanatvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIFTu6hgF-RakW15MgqrnJEn5Rwjeb3K5BxHDKaTIiZskQi_iwWlYNT8UC-w&s" group-title="Bangladesh / Sports / Cricket",M TV
+https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Hindi",MAHA MOVIE
+https://d2lk5u59tns74c.cloudfront.net/out/v1/7be6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Hindi",MANORANJAN MOVIES
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8be6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRybsswgKGqZ7ApaGnur1_eU9wSVxJxjtu9O-51MKn90ZGWRdFQPPi3_4sEYw&s" group-title="International / Sports / Racing",MOTO VLOGS
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",MOVIE MAX
+https://moviemaxhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="USA / Movies / English",MOVIE PALACE
+http://158.69.122.181:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcU9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",MOVIES 24 HD
+https://movies24hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcV9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / English",MOVIES NOW HD
+https://tvpass.org/live/MoviesNow/hd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcW9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",MULTIPLEX
+https://multiplexhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOeutAstZoz0489BsFJj8bKJvEuKfqj4aXiObnV30IcY1_4fMyG68w9DosuK4&s" group-title="India / Music / Hindi",MUSIC INDIA
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcX9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",MY CINEMA HD
+https://mycinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWa-CtvDvkxggf5LQtyeiQKDcXVJSZ_R9vIU174BfnVKHAu5NOJrf6M8dlXg&s" group-title="India / News / English",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5SslpGEBw33iKdAlnctfSnhhOsHwz29djXgTshXu9GNwFEXSxg4GZ4fKcJM&s" group-title="India / News / Hindi",NDTV INDIA
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADbCiQhIh2Ls9ND5HoifoR3FTm5T3JDUniOkx81ezi__z_hXMCplNpW9NcA&s" group-title="USA / News / English",NEWSMAX
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcY9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Nigeria / Movies / English",NTA MOVIES
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/146.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ovMxIE3WJAJclad59EZex3Pf-rCThgdVFFjfiCuLvzTFBuW5jwL1MGXZKw&s" group-title="Bangladesh / Entertainment / Bangla",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcZ9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Australia / Movies / Classic",ON CLASSIC HD
+https://classicmovies.ctbperth.net.au/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-67j2QlsqxGadGKL_ZOxqU80xem0Hq6ZoDDnvanwRla4roHYqhX1ZgQBsPsc&s" group-title="India / Music / Bengali",ORANGE BANGLA TV
+https://cdn-4.pishow.tv/live/1499/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gca9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",OSCAR FAMILY HD
+https://oscarfamilyhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcb9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",OSCAR MOVIE HD
+https://oscarmoviehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcc9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="USA / Movies / Farsi",PARS TV
+https://parstvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRNZVWvP85eDo3IhuLtEOXuWQ-CrDhbV-WHevuNyuiWMw7UtndSU4VM64Tdg&s" group-title="USA / Kids / English",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtU2NG9WQVyW7bCPvFKfLnbwESOmng4er2LfNqARpN0ZPfzOLteefe_wkWg&s" group-title="India / Music / Tamil",PEPPERS TV
+https://cdn-2.pishow.tv/live/1383/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",PERSIAN CINEMA
+https://persiancinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",PERSIAN FILM
+https://persianfilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcd9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",PERSIANA CINEMA HD
+https://persianacinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gce9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Comedy",PERSIANA COMEDY HD
+https://persianacomedyhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-Lp0Kz0U8Z9j7-f3G9_Fv5J-O0T7y8p_Q&s" group-title="Iran / Movies / Farsi",PERSIANA FAMILY HD
+https://persianafamilyhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7T_v3A8S8_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Korean",PERSIANA KOREA HD
+https://persianakoreahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Science",PERSIANA SCIENCE HD
+https://persianasciencehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Vietnam / Movies / Vietnamese",PHIM HAY HD
+https://phimhayhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Punjabi",PITAARA HD
+https://live-pitaara.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",POP MOVIE HD
+https://popmoviehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMLrp_somIUaFJ2vKY1q7z2gnOAR9vX6Gb31DrEzb-odfwiGjPwBRVUVtddw&s" group-title="International / Sports / Live",PRO SPORTS
+https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKE2e3eJmMu-sIg_W8Zz4lvAAp61Z30tfjMq1eCqaX1jUgH1YGVbZxxNPq-s&s" group-title="India / Music / Punjabi",PTC CHAKDE
+https://cdn-1.pishow.tv/live/449/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXsVneoYVHbWa4531wUj07Rljk8-6cURSBUiFgaTikl4qNUiyp1FXfqMZMA&s" group-title="India / Music / Punjabi",PTC MUSIC
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93HX9fHx6M0JmJzTzVv871wKdl53fK5cb_ijGP8mhCeRXi8CCs41MdD2-ymA&s" group-title="India / Music / Kannada",PUBLIC MUSIC
+https://cdn-3.pishow.tv/live/441/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3mxFOTsu9niIIXvU-YfxQtqZ4SNhTTCjPc7cdBBq7Yq8emDN4dYaZaXokwg&s" group-title="India / Music / Telugu",RAJ MUSIX TELUGU
+https://cdn-1.pishow.tv/live/1213/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Hindi",RAJSHRI
+https://rajshri-rajshri-1-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcU9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",REAL CINEMA
+https://realcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyhX_rebjQg6GrzrvfKRJxAYBRn5wx50P8xhsJR7h0fsNnp6gQcTAVThFp7Hg&s" group-title="Spain / Sports / Football",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcV9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Hindi",RK MOVIES
+https://d2lk5u59tns74c.cloudfront.net/out/v1/9be6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQhQKzwHLTWpi3BWcoqOefVFW4sUDGnsBhxZ85qtwlRenheywA8TLHNGT9cI&s" group-title="India / Entertainment / Hindi",RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsaPDEF0RKZKoVQO6kDyZVHuXDDkyW6JeY6OFlARDscbUcWhiCe-aitzOC9c&s" group-title="Afghanistan / Sports / Pashto",RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXgENZm0tCtej70H4fF9YEJNqyxjC-88BDpAKshxBjrI9wXUhSGB4uThMX1E&s" group-title="Russia / Sports / Football",RUSSIA FOOTBALL 1
+http://cdntv.online/low/9mlxywika2/55.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdrqNLUZCI1J0rn_hrW34EKhFv70kOkQ_S72IXr-avdkaWL6TLACOe2UDAg&s" group-title="Russia / Sports / Football",RUSSIA FOOTBALL 2
+http://cdntv.online/low/9mlxywika2/56.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhvuF5tAzW7sOSDkfEV0XgpMNjGmRyrGq4kvxgM_vwWCyq3Kv_BiUEolPhg&s" group-title="Russia / Sports / Football",RUSSIA FOOTBALL 3
+http://cdntv.online/low/9mlxywika2/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcW9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Russia / Movies / Russian",RUSSIA KINO
+http://51.250.21.161:8000/russiakino/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJxNdzHODQxxFpi8A1Q_RJbnw47BSQ9H6AW4x-dtyNALso-MqvO6-Fpus9ow&s" group-title="India / Music / Tamil",SANA PLUS HD
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsCCfgkvTngSLxF2xoB_Lb-X4GBSKCPmEyQn5_HNIMNGGgDdLtQmQ09J6zYs&s" group-title="India / Music / Bengali",SANGEET BANGLA
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL6lN5_miDW5TrUc-KxPzQ-IQi2ywH5xtCszy7DwBGfylbecYD-cdCQ3Ka-Q&s" group-title="India / Music / Bhojpuri",SANGEET BHOJPURI
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmY2cMndMwvv7AI7rpCxdcu4qCTVk3s27W-XudCUsDebI2Az8KYtuLXH1qIg&s" group-title="India / Music / Marathi",SANGEET MARATHI
+https://cdn-3.pishow.tv/live/1229/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8oQU1mrUD6_ugI-NB2-yFwrAjRadg5qkemY5s1-YOcetRpzPekU2iOOje8o&s" group-title="UAE / Sports / Arabic",SHARJAH SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcX9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Marathi",SHEMAROO MARATHIBANA HD
+https://shemaroo-marathibana-1-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcY9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Hindi",SHEMAROO MOVIES HD
+https://shemaroo-movies-1-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BpjgUjD10kDDidzE8CpmSXKucpNfxchg69CRVnohLe1Cn4L-iS1kJZPT0A&s" group-title="India / Kids / Bengali",SHINCHAN 24/7
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYUDs612fLdiyuV4jUhCZI3hdLAsC-FQ43QKrMEoI9vTtLw5wSioHjJIKaw&s" group-title="Bangladesh / News / Bangla",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9h7C6INS2pWoFVIQ2QWKVmgg3rc6WocorB3uCCPl5AswuAYjGJ8uYP4k-ns&s" group-title="Bangladesh / Sports / Cricket",SPORTS 1
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8r0ujNKMm0CoIh5sb-WtxPYub80koZVMj5tzD7LirB2ngx4q6cZ0O-QyHSdA&s" group-title="Bangladesh / Sports / Cricket",SPORTS 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ6B7kyO6yA9x7kveOms397i48ntyvUfZi5wauTb0qfgcG5_Tq3DZAISFmcNw&s" group-title="India / Music / Hindi",STEELBIRD MUSIC
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW7FZ8sCOpVkv-jvVdrlYUoEBHgx8aPYJYEChf-rntnoUU-FfinQmWCo0uCw&s" group-title="India / Music / Odia",TARANG MUSIC
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcZ9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Netherlands / Movies / Documentary",THE ARCHIVE
+https://thearchive-thearchive-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gca9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Netherlands / Movies / English",THE MOVIE SCENE
+https://themoviescene-themoviescene-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcb9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",TPN CINEMA HD
+https://tpncinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOuFsrxozm_foO0t_z-Z_AdNr4-Z1fN7me_pNg5I5SujCwX-I0aoBgA7R0ZY&s" group-title="Turkey / News / English",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcc9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",U&I MOVIE
+https://uimoviehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:GcSjhVU9b0LLeHR-a_auVZe7GOmnXta-Jink7PsfBoBrgIrjOJocTbb_W21TfA&s" group-title="Bangladesh / Music / Bengali",ULTIMATE TV HD
+https://stream.galaxyott.live/live/utv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcd9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Classic",V CLASSIC HD
+https://vclassichls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gce9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",V MOVIE HD
+https://vmoviehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3_qZNiux1xzMDSITeB3Xo0CNZAOwOdmAUdPdFm-bxo7eu9MK1VvI-TxK23V4&s" group-title="India / Music / Tamil",VAANAVIL TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcf9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Turkey / Movies / Turkish",WAY OF THE TURKEY
+https://wayoftheturkey-wayoftheturkey-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAAm_9lhFKwPto0JskiYJnNROzVDgIY4QsNs4VqGoOUwSkF2Cf2_x1v8uzGAw&s" group-title="International / Documentary / English",WILD NATURE
+https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfLV1H7Ig_Cal6Xj5YjgPg79uLfzEjHPSLuiQ2gcRYEukGMubdrJvu_DJZeA&s" group-title="India / News / English",WION
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcg9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Hindi",WOW CINEMA
+https://d2lk5u59tns74c.cloudfront.net/out/v1/1ce6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gch9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",YOU TV
+https://youtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gci9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="Iran / Movies / Farsi",YOUR CINEMA HD
+https://yourcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrF5rI-kzLttFoXnWPRyVUCoHRe5BqvRqZmWh9qrzrh2DuO0DrBJQ9rOq7Q&s" group-title="Bangladesh / Kids / Bangla",ZB CARTOON
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6tye7dbNSbuAOEDFXDys0D63hv0kHNtVHFmnfPHvk_ju4TvA0BAmDBNPZdoE&s" group-title="Bangladesh / Music / Bengali",ZB MUSIC
+https://server.zillarbarta.com/zbmusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjMlTbgm_iy3G6NezCnegEivBzS7I9Dx2VS4VAYRvSfIHdAwQr5P1Xomg51I&s" group-title="India / News / Bengali",ZEE 24 GHANTA
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SKNt1QvF-Lj7QIX4RK5sZ-Oh2_buBGlauVfPZB1jDhSj-ArZK7FNhbEOKWw&s" group-title="India / News / Gujarati",ZEE 24 KALAK
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYlkM5cGum6Si2Crs-p6ZAXukndthq6KbmxO0-858l7TbUr6zA241l1q95UVc&s" group-title="India / News / Marathi",ZEE 24 TAAS
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-u-N7Y1zY0p2-1g&s" group-title="India / Movies / Hindi",ZEE ACTION
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105523/ZeeActionELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-8A&s" group-title="India / Movies / Hindi",ZEE ANMOL CINEMA
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIvNErcnyZJCoUkOLvnU91-USSY8_PClWqAOjkMyp77CneeOQdjTMwnS38KpU&s" group-title="India / Movies / Hindi",ZEE ANMOL CINEMA 2
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQ2M8T1-w1p8U_5YwL9-QvXW6Y_f_Jt6Bqg&s" group-title="India / Entertainment / Bengali",ZEE BANGLA HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJn9n5bedIK5H3rFG1stlaXBySz8YnAFOxBCRU3fyg5nt10XS4Z7YveSApFA&s" group-title="India / News / Hindi",ZEE BHARAT
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK-VN51ZYG8joNBFGpTkOaTnTKKX4DH8-i653-E53drNogWnbOVggPmV7yVw&s" group-title="India / News / Hindi",ZEE BIHAR JHARKHAND
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7y1V-l-8Y8p9f3-8A&s" group-title="India / Movies / Hindi",ZEE BOLLYWOOD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/ZeeBollywoodELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgbCop2_wZppmG7MdIRSt_EzuDO5Bd7YNCuVKF4YFCbSQLcuQZLXx2AzAcA&s" group-title="India / News / Hindi",ZEE BUSINESS
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtsgXhCBxNT6QR0YUreqs5WSjy5HR-89f1_BQlQLeT6xgTHOkxpOX0O_lCNA&s" group-title="India / Entertainment / English",ZEE CAFÉ HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9Gcj9Z6x7R9j_v_oE4yR0_p0-K0-u7Z-p_Q&s" group-title="India / Movies / Hindi",ZEE CINEMA HD
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeCinemaHDMSLELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="India / Movies / Telugu",ZEE CINEMALU HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_z9A9-8A&s" group-title="India / Movies / Hindi",ZEE CLASSIC
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105518/ZeeClassicELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToiNwOvGYL-ZMd-7YYXABBEHEt39vb7gCAgqsjvWzKIAj2rkjEm8QONovpT3k&s" group-title="India / News / Hindi",ZEE DELHI NCR HARYANA
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXj2E2asd4FqblGBd3wAdbiyT0zgZt3TOzX6thqMiWJlSzBrduSuQwGB8iA&s" group-title="India / Entertainment / Kannada",ZEE KANNADA HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5L16EHVZPGqb8RONyO8Rqk-IyitPKTch45pdH_xLePqKl3jY9eztog-kxMA&s" group-title="India / Entertainment / Malayalam",ZEE KERALAM HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTalCamO9vdNPQwK1-24ClDcp01jGjO1rsqr-kDW616kjHpP_xNVIYppp94RA&s" group-title="India / News / Hindi",ZEE MADHYA PRADESH CHHATTISGARH
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShU4ipL5tvqK1015dy5tkOGZpeDlLGTmByQvzKJ9XR8Tq5QzkLDeVTGTGYbWc&s" group-title="India / Entertainment / Marathi",ZEE MARATHI HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKh_FEN_tdo7Xtr5ucZICZ2P2p_VKayVjPvCP_d4LCTyDYHwuLj7L8x9twvg&s" group-title="India / News / Hindi",ZEE NEWS
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-8A&s" group-title="India / Movies / Kannada",ZEE PICCHAR HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeePiccharHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbedZtm2dFPEcDoffUHjsDD57Q5SrPrYWVKJQftiqczsx_JXfuVTVsHTBUyo&s" group-title="India / News / Punjabi",ZEE PUNJAB HARYANA HIMACHAL PRADESH
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShP3hy0BM2xB3UEc2J9wbOmdXKomXr4eeBIoRZseHhK9NhtiSFNMsvqOfHZw&s" group-title="India / News / Hindi",ZEE RAJASTHAN NEWS
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_mUvI-HovO7e4UfK_jG7YVlG_wV9xU_L-Lw&s" group-title="India / Entertainment / Odia",ZEE SARTHAK
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeSarthakELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAuYVhoDLR0x-UfpwMZBm5CNkKhpzZm39tYv9oM25auSKdh08j5_XAQ0deRs&s" group-title="India / Movies / Marathi",ZEE TALKIES HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuR5FvufwARdxE39p7zUxo0P3IO7IL9wk9Ies8ANL0pH8d6eLHR7zMPWmzFc&s" group-title="India / Entertainment / Tamil",ZEE TAMIL HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxfpecaeheSyPK3le70ZT9a0OvnZNLb2_zCwVds4KXNp_jH66tzTsHOuFq4g8&s" group-title="India / Entertainment / Telugu",ZEE TELUGU HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/150" group-title="India / Movies / Tamil",ZEE THIRAI HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeeThiraiHDELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCW-t4fKBfHuPRml-HwSBYZY5L1KzQKZItXgU_kCtEN2A1gvbpmQsNhHWBVA&s" group-title="India / Entertainment / Hindi",ZEE TV HD
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSVUqh8nKHdliFOJUrbTpmQg9iaapxRvKQARtLK8J7YGZ6QIGviEP5Z83DMg&s" group-title="India / Entertainment / Marathi",ZEE YUVA
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Zaz6GpRXMnOij-G0ZrY16EX0r65yv5_UKu_BzQtSrXvZyeWKm0PiyO5QFLc&s" group-title="India / Entertainment / Hindi",ZING
+#EXTVLCOPT:http-user-agent=mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/121.0.0.0 ygx/69.1 safari/537.36
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1767444076~acl=%2f*~id=b67c0de2-ef00-479e-8aae-cf583a594d70~data=hdntl~hmac=98f203ada5b961b1577fe1eaaa98fd985f97040f43743be64593f46d4dbcc82c
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-0yHSrzhXzjfVOSOyWdviwLghWg1Z5PuGFzq3kzuUFDTU8v6ckPp8i713g&s" group-title="India / Music / Hindi",ZOOM
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdx5c2O7pe2nfSoDNWWZnWbL8gv_eXF2gpCe7U7v2qXrxEO--odArrbM95rw&s" group-title="International / Kids / English",ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
