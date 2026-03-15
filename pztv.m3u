@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Bangla" tvg-id="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla TV
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",T Sports
 https://playztv-apps.pages.dev/tsports/index.m3u8
 
