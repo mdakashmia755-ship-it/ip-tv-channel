@@ -1,10 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bangla" tvg-id="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla TV
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",T Sports
-https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Bangladesh/Sports",T Sports
+https://playztv-apps.pages.dev/tsports/index.m3u8
 
 #EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",PTV Sports
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
