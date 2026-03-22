@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Bangladesh/Sports/Genarel",T Sports
 https://playztv-apps.pages.dev/tsports/index.m3u8
 
-#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",PTV Sports
+#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Pakistan/Sports/Genarel",PTV Sports
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
 
 #EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",A Sports
