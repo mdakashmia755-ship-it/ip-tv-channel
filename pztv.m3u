@@ -91,9 +91,6 @@ https://playztv-apps.pages.dev/desh-tv/index.m3u8
 #EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",Mohona TV
 https://playztv-apps.pages.dev/mohona-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="nagoriktv" tvg-name="Nagorik TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",Nagorik TV
-https://playztv-apps.pages.dev/nagorik-tv/index.m3u8
-
 #EXTINF:-1 tvg-id="sangsadtv" tvg-name="Sangsad TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",Sangsad TV
 https://playztv-apps.pages.dev/sangsad-tv/index.m3u8
 
