@@ -4,41 +4,37 @@
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1280px-T_Sports_logo.svg.png" group-title="Bangladesh/Sports/Genarel",T Sports
 https://playztv-apps.pages.dev/tsports/index.m3u8
 
-#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Pakistan/Sports/Genarel",PTV Sports
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+#EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxftj7E-cjezduzYotuqzKjjLpQDE3HCY2LA&s" group-title="Pakistan/Sports/Genarel",PTV Sports
+https://playztv-apps.pages.dev/ptvsports/index.m3u8
 
-#EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",A Sports
+#EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8b0GP1SR9v1wl67axZLhd5pGbwht1pSKlA&s" group-title="Pakistan/Sports/Genarel",A Sports
 https://playztv-apps.pages.dev/asports/index.m3u8
 
-#EXTINF:-1 tvg-id="starsports1" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-id="starsports1" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7pZ6FJfFFyZ_fdULDTQDmBcfZSD0xmxQJQ&s" group-title="India/Sports/Cricket",Star Sports 1
 https://playztv-apps.pages.dev/star-sports/index.m3u8
 
-#EXTINF:-1 tvg-id="starsports2" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",Star Sports 2
+#EXTINF:-1 tvg-id="starsports2" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlknGbIGixJ9IAGKV7cI7C0J6fss4vFi1a9Q&s" group-title="India/Sports/Cricket",Star Sports 2
 https://playztv-apps.pages.dev/star-sports2/index.m3u8
 
-#EXTINF:-1 tvg-id="willowtv" tvg-name="Willow TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",Willow TV
+#EXTINF:-1 tvg-id="willowtv" tvg-name="Willow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUY4YZAdLe25i3Hn8DMDw0UG4w6h5FgqYp33tTGw5RA&s=10" group-title="USA/Sports/Cricket",Willow TV
 https://playztv-apps.pages.dev/willow/index.m3u8
 
-#EXTINF:-1 tvg-id="tnt1" tvg-name="TNT 1" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Sports",TNT 1
-https://playztv-apps.pages.dev/tnt1/index.m3u8
-
-#EXTINF:-1 tvg-id="atnbangla" tvg-name="ATN Bangla" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",ATN Bangla
+#EXTINF:-1 tvg-id="atnbangla" tvg-name="ATN Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzsN90Rbey9O2aaqxyGrwM1w-aJGuuW4iCxjEXUgapg&s" group-title="Bangladesh/Entertainment/Genarel",ATN Bangla
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
-#EXTINF:-1 tvg-id="channeli" tvg-name="Channel i" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",Channel i
+#EXTINF:-1 tvg-id="channeli" tvg-name="Channel i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNHBVAu-bMugD50yaatr-SklIkrp-gB3H64jCkglXKkg&s" group-title="Bangladesh/Entertainment/Genarel",Channel i
 https://playztv-apps.pages.dev/channel-i/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",NTV
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgz-R5NtOz_LCosKxchBOkjrXv1UnxFVRIWAfys3gvg&s" group-title="Bangladesh/Entertainment/Genarel",NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 
-
-#EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",Banglavision
+#EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7WiReG3FDGyBTlp_j9aOhLpY3gZ8cFRpXpbSEceI9g&s" group-title="Bangladesh/Entertainment/Genarel",Banglavision
 https://playztv-apps.pages.dev/banglavision/index.m3u8
 
-#EXTINF:-1 tvg-id="independenttv" tvg-name="Independent TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",Independent TV
+#EXTINF:-1 tvg-id="independent News" tvg-name="Independent TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwkKJE2DRZGxW6JPQ6VGQ1nEtllQV5QqcwUWe9KfH3Q&s=10" group-title="Bangladesh/News/24-7",Independent TV
 https://playztv-apps.pages.dev/independent-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",RTV
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFc_vXcsKj_SthM_J79US4TC1l1GYk8AemVN0Sz6-JPA&s" group-title="Bangladesh/Intertainment/Genarel",RTV
 https://playztv-apps.pages.dev/rtv/index.m3u8
 
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",BTV
