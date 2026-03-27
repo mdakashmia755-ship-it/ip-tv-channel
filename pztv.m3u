@@ -108,7 +108,7 @@ https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="dealtv" tvg-name="Deal TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Shopping",Deal TV
 https://playztv-apps.pages.dev/deal-tv/index.m3u8
-#https://cdn-live-pyone.secureswiftcontent.com/han/MRTV4/MRTV4/LiveOutput/manifest.m3u8
+#https://shls-live-enc.edgenextcdn.net/out/v1/b0e399f5d80a4f5a84167830f4baea38/index_9.m3u8
 
 #EXTINF:-1 tvg-id="btvworld" tvg-name="BTV World" tvg-logo="https://i.imgur.com/placeholder.png" group-title="International",BTV World
 https://playztv-apps.pages.dev/btv-world/index.m3u8
