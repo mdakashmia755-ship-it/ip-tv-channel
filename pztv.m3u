@@ -82,7 +82,7 @@ https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 tvg-id="deshtv" tvg-name="Desh TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",Desh TV
 https://playztv-apps.pages.dev/desh-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",Mohona TV
+#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Singapore/Entartainment/Genarel",Mohona TV
 https://playztv-apps.pages.dev/mohona-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="sangsadtv" tvg-name="Sangsad TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",Sangsad TV
