@@ -44,22 +44,22 @@ https://playztv-apps.pages.dev/independent-tv/index.m3u8
 #EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFc_vXcsKj_SthM_J79US4TC1l1GYk8AemVN0Sz6-JPA&s" group-title="Bangladesh/Entertainment/Genarel",RTV
 https://playztv-apps.pages.dev/rtv/index.m3u8
 
-#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCtR6W0fpikHeyGYofDGtE1ADdJvOQPp-eA&s" group-title="Bangladesh/News/24/7",BTV News
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCtR6W0fpikHeyGYofDGtE1ADdJvOQPp-eA&s" group-title="Bangladesh/News/24-7",BTV News
 https://playztv-apps.pages.dev/btv/index.m3u8
 
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxF342W9qrAXtQr2BZKCziEgmTNk-LLIv2apXGnsS0g&s" group-title="Bangladesh/Entertainment/Genarel",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-id="gaanbangla" tvg-name="Gaan Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_QDF8Xli-7jah1sFOutOyo8vuiCCyxnBKOkmEBeYZg&s" group-title="Bangladesh/Music/24/7",Gaan Bangla
+#EXTINF:-1 tvg-id="gaanbangla" tvg-name="Gaan Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_QDF8Xli-7jah1sFOutOyo8vuiCCyxnBKOkmEBeYZg&s" group-title="Bangladesh/Music/24-7",Gaan Bangla
 https://playztv-apps.pages.dev/gaan-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="durontotv" tvg-name="Duronto TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju7Cz0yDr0JHmAmse94OCH6Xve6iTv_lgEGig-BQIyw&s=10" group-title="Bangladesh/Kids/Genarel",Duronto TV
 https://playztv-apps.pages.dev/duronto-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="dbcnews" tvg-name="DBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2kqo0MFTVfcCyqYVhJmrYQIQfbIDgNKpFXJYxVxOnQ&s" group-title="Bangladesh/News/24/7",DBC News
+#EXTINF:-1 tvg-id="dbcnews" tvg-name="DBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2kqo0MFTVfcCyqYVhJmrYQIQfbIDgNKpFXJYxVxOnQ&s" group-title="Bangladesh/News/24-7",DBC News
 https://playztv-apps.pages.dev/dbc-news/index.m3u8
 
-#EXTINF:-1 tvg-id="jamunatv" tvg-name="Jamuna TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrTh3CUt8PNk17rYV3gqPo9hSi2gy1pk2aPLsHk3eGA&s=10" group-title="Bangladesh/News/24/7",Jamuna TV
+#EXTINF:-1 tvg-id="jamunatv" tvg-name="Jamuna TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrTh3CUt8PNk17rYV3gqPo9hSi2gy1pk2aPLsHk3eGA&s=10" group-title="Bangladesh/News/24-7",Jamuna TV
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
@@ -81,16 +81,16 @@ https://playztv-apps.pages.dev/my-tv/index.m3u8
 #EXTINF:-1 tvg-id="channel9" tvg-name="Channel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jlcBMOqWou_OzYCh6I1480Zn4lrxkT4qwXn7LNMv1w&s=10" group-title="Bangladesh/Entartainment/Genarel",Channel 9
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 
-#EXTINF:-1 tvg-id="channel24" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0fRVlm-oVnAePtwMgEF8GHjE5UEdk1BjQLyv2EYd8g&s=10" group-title="Bangladesh/News/24/7",Channel 24
+#EXTINF:-1 tvg-id="channel24" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0fRVlm-oVnAePtwMgEF8GHjE5UEdk1BjQLyv2EYd8g&s=10" group-title="Bangladesh/News/24-7",Channel 24
 https://playztv-apps.pages.dev/channel-24/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 tvg-id="atnnews" tvg-name="ATN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBDiI4xTU9U887kEWlcjONfaYp8DL5w94Uv1fFUMPUg&s" group-title="Bangladesh/News/24/7",ATN News
+#EXTINF:-1 tvg-id="atnnews" tvg-name="ATN News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbBDiI4xTU9U887kEWlcjONfaYp8DL5w94Uv1fFUMPUg&s" group-title="Bangladesh/News/24-7",ATN News
 https://playztv-apps.pages.dev/atn-news/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-id="news24" tvg-name="News24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlh0T3iZtw4HK3B5nb5LI14qR5fsBdgFzLvjmKB8e&s=10" group-title="Bangladesh/News/24/7",News24
+#EXTINF:-1 tvg-id="news24" tvg-name="News24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlh0T3iZtw4HK3B5nb5LI14qR5fsBdgFzLvjmKB8e&s=10" group-title="Bangladesh/News/24-7",News24
 https://playztv-apps.pages.dev/news24/index.m3u8
 
 #EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyyQcgFAvSDDrkH0gw19iQsqYmZ6pZPlbY2_K0j9Yxg&s=10" group-title="Bangladesh/Entartainment/Genarel",Asian TV
