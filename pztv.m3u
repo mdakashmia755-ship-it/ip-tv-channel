@@ -67,7 +67,7 @@ https://playztv-apps.pages.dev/my-tv/index.m3u8
 #EXTINF:-1 tvg-id="channel9" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",Channel 9
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 
-#EXTINF:-1 tvg-id="channel24" tvg-name="Channel 24" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",Channel 24
+#EXTINF:-1 tvg-id="channel24" tvg-name="Channel 24" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Singapore/News/Genarel",Channel 24
 https://playztv-apps.pages.dev/channel-24/index.m3u8
 
 #EXTINF:-1 tvg-id="atnnews" tvg-name="ATN News" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",ATN News
