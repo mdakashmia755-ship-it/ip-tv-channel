@@ -64,7 +64,7 @@ https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-id="boishakhitv" tvg-name="Boishakhi TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s" group-title="Bangladesh/Entertaiment/Genarel",Boishakhi TV
+#EXTINF:-1 tvg-id="boishakhitv" tvg-name="Boishakhi TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s" group-title="Bangladesh/Entertainment/Genarel",Boishakhi TV
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="ekattortv" tvg-name="Ekattor TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEe2CizgVTpLQQpgEVzT7FgblZuV8UNhhNhtuz5udpIw&s=10" group-title="Bangladesh/News/Genarel",Ekattor TV
@@ -78,7 +78,7 @@ https://playztv-apps.pages.dev/satv/index.m3u8
 #EXTINF:-1 tvg-id="mytv" tvg-name="My TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCp-cZ_PCpanfLMsyCfF8D4qcVYvCsCMFcdG0G_DCPOw&s=10" group-title="Bangladesh/Entertainment/Genarel",My TV
 https://playztv-apps.pages.dev/my-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="channel9" tvg-name="Channel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jlcBMOqWou_OzYCh6I1480Zn4lrxkT4qwXn7LNMv1w&s=10" group-title="Bangladesh/Entartainment/Genarel",Channel 9
+#EXTINF:-1 tvg-id="channel9" tvg-name="Channel 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5jlcBMOqWou_OzYCh6I1480Zn4lrxkT4qwXn7LNMv1w&s=10" group-title="Bangladesh/Entertainment/Genarel",Channel 9
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 
 #EXTINF:-1 tvg-id="channel24" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-0fRVlm-oVnAePtwMgEF8GHjE5UEdk1BjQLyv2EYd8g&s=10" group-title="Bangladesh/News/24-7",Channel 24
@@ -93,13 +93,13 @@ https://playztv-apps.pages.dev/atn-news/index.m3u8
 #EXTINF:-1 tvg-id="news24" tvg-name="News24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlh0T3iZtw4HK3B5nb5LI14qR5fsBdgFzLvjmKB8e&s=10" group-title="Bangladesh/News/24-7",News24
 https://playztv-apps.pages.dev/news24/index.m3u8
 
-#EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyyQcgFAvSDDrkH0gw19iQsqYmZ6pZPlbY2_K0j9Yxg&s=10" group-title="Bangladesh/Entartainment/Genarel",Asian TV
+#EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyyQcgFAvSDDrkH0gw19iQsqYmZ6pZPlbY2_K0j9Yxg&s=10" group-title="Bangladesh/Entertainment/Genarel",Asian TV
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="deshtv" tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtWbQSUZ65Ajb8YPY77g-JJQOGk18MK1qj6Z39PVUmQ&s=10" group-title="Bangladesh/Entartainment/Genarel",Desh TV
+#EXTINF:-1 tvg-id="deshtv" tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtWbQSUZ65Ajb8YPY77g-JJQOGk18MK1qj6Z39PVUmQ&s=10" group-title="Bangladesh/Entertainment/Genarel",Desh TV
 https://playztv-apps.pages.dev/desh-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKM5lsPHw7ZdrlDgJ04eRbjX8qDJJC7YFUoBvrCGuEQ&s" group-title="Bangladesh/Entartainment/Genarel",Mohona TV
+#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKM5lsPHw7ZdrlDgJ04eRbjX8qDJJC7YFUoBvrCGuEQ&s" group-title="Bangladesh/Entertainment/Genarel",Mohona TV
 https://playztv-apps.pages.dev/mohona-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="sangsadtv" tvg-name="Sangsad TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4vC-_IHLnH411w2Hvp2XVbjvnqBiC9eGas2tOMtcpeg&s" group-title="Bangladesh/News/Sangsad",Sangsad TV
@@ -111,7 +111,7 @@ https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 #EXTINF:-1 tvg-id="dealtv" tvg-name="Deal TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIMi3nq63HdtjzKGvPgy58Y6h4ZgC6RvuleuA9v8euNA&s=10" group-title="International/Lifestyle/Shoping",Deal TV
 https://playztv-apps.pages.dev/deal-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="btvworld" tvg-name="BTV World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewPBts9S9DpNo0iMTsVvFtb7iW7djoFXbyg&s=" group-title="International/Entartainment/Bangla",BTV World
+#EXTINF:-1 tvg-id="btvworld" tvg-name="BTV World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRewPBts9S9DpNo0iMTsVvFtb7iW7djoFXbyg&s=" group-title="International/Entertainment/Bangla",BTV World
 https://playztv-apps.pages.dev/btv-world/index.m3u8
 
 #EXTINF:-1 tvg-id="islamictv" tvg-name="Islamic TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWi7sx0O0IplrFKkVTIMqI7H2G8AXmxZLSCweChAgxBA&s" group-title="International/Religious/Islam",Islamic TV
