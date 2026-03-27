@@ -23,23 +23,30 @@ https://playztv-apps.pages.dev/willow/index.m3u8
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="channeli" tvg-name="Channel i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNHBVAu-bMugD50yaatr-SklIkrp-gB3H64jCkglXKkg&s" group-title="Bangladesh/Entertainment/Genarel",Channel i
-#https://playztv-apps.pages.dev/channel-i/index.m3u8
+https://playztv-apps.pages.dev/channel-i/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgz-R5NtOz_LCosKxchBOkjrXv1UnxFVRIWAfys3gvg&s" group-title="Bangladesh/Entertainment/Genarel",NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7WiReG3FDGyBTlp_j9aOhLpY3gZ8cFRpXpbSEceI9g&s" group-title="Bangladesh/Entertainment/Genarel",Banglavision
 https://playztv-apps.pages.dev/banglavision/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-id="independent News" tvg-name="Independent TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwkKJE2DRZGxW6JPQ6VGQ1nEtllQV5QqcwUWe9KfH3Q&s=10" group-title="Bangladesh/News/24-7",Independent TV
 https://playztv-apps.pages.dev/independent-tv/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFc_vXcsKj_SthM_J79US4TC1l1GYk8AemVN0Sz6-JPA&s" group-title="Bangladesh/Entertainment/Genarel",RTV
 https://playztv-apps.pages.dev/rtv/index.m3u8
 
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",BTV
 https://playztv-apps.pages.dev/btv/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-id="gaanbangla" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Music",Gaan Bangla
 https://playztv-apps.pages.dev/gaan-bangla/index.m3u8
@@ -52,12 +59,16 @@ https://playztv-apps.pages.dev/dbc-news/index.m3u8
 
 #EXTINF:-1 tvg-id="jamunatv" tvg-name="Jamuna TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",Jamuna TV
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-id="boishakhitv" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",Boishakhi TV
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="ekattortv" tvg-name="Ekattor TV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",Ekattor TV
 https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="satv" tvg-name="SATV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",SATV
 https://playztv-apps.pages.dev/satv/index.m3u8
@@ -70,9 +81,12 @@ https://playztv-apps.pages.dev/channel-9/index.m3u8
 
 #EXTINF:-1 tvg-id="channel24" tvg-name="Channel 24" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Singapore/News/Genarel",Channel 24
 https://playztv-apps.pages.dev/channel-24/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="atnnews" tvg-name="ATN News" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",ATN News
 https://playztv-apps.pages.dev/atn-news/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 tvg-id="news24" tvg-name="News24" tvg-logo="https://i.imgur.com/placeholder.png" group-title="News",News24
 https://playztv-apps.pages.dev/news24/index.m3u8
