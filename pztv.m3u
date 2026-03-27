@@ -46,7 +46,7 @@ https://playztv-apps.pages.dev/rtv/index.m3u8
 
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Bangla Entertainment",BTV
 https://playztv-apps.pages.dev/btv/index.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-id="gaanbangla" tvg-name="Gaan Bangla" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Music",Gaan Bangla
 https://playztv-apps.pages.dev/gaan-bangla/index.m3u8
