@@ -23,11 +23,11 @@ https://playztv-apps.pages.dev/willow/index.m3u8
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="channeli" tvg-name="Channel i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNHBVAu-bMugD50yaatr-SklIkrp-gB3H64jCkglXKkg&s" group-title="Bangladesh/Entertainment/Genarel",Channel i
-https://playztv-apps.pages.dev/ntv/index.m3u8
 #https://playztv-apps.pages.dev/channel-i/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgz-R5NtOz_LCosKxchBOkjrXv1UnxFVRIWAfys3gvg&s" group-title="Bangladesh/Entertainment/Genarel",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://playztv-apps.pages.dev/ntv/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7WiReG3FDGyBTlp_j9aOhLpY3gZ8cFRpXpbSEceI9g&s" group-title="Bangladesh/Entertainment/Genarel",Banglavision
 https://playztv-apps.pages.dev/banglavision/index.m3u8
