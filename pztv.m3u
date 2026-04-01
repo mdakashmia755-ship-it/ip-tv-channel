@@ -147,5 +147,11 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 tvg-id="Soudi Arab" tvg-name="BIG TIME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGkc7OrzQ3yyzO66WoV3flDB4bMzoVjGRGZmTnNB8co01d3936-BELUoJd&s=10" group-title="Soudi Arab/Entertainment/Drama",BIG TIME
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 
-#EXTINF:-1 tvg-id="Soudi Arab" tvg-name="Sony Entertainment HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGkc7OrzQ3yyzO66WoV3flDB4bMzoVjGRGZmTnNB8co01d3936-BELUoJd&s=10" group-title="India/Entertainment/Movie",Sony Entertainment HD
+#EXTINF:-1 tvg-id=" Sony Entertaiment" tvg-name="Sony Entertainment HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGkc7OrzQ3yyzO66WoV3flDB4bMzoVjGRGZmTnNB8co01d3936-BELUoJd&s=10" group-title="India/Entertainment/Movie",Sony Entertainment HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Enter 10 Bangla" tvg-name="Enter 10 Bangla" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="India/Entertainment/Drama",Inter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Enter 10 Bangla" tvg-name="Enter 10 Bangla" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png" group-title="Bangladesh/Entertainment/Drama",Inter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
