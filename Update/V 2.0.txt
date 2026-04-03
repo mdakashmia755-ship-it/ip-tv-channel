@@ -1,0 +1,13 @@
+V 2.0 
+
+Bug Fixes 
+
+1.  Select Channe Name 
+2. Added Views 
+3. Added Like, Dislike,  Shear Button
+4. Updated Shear Function
+5. Updated Backup System (#)
+6. Updated Firebass System
+7. Updated Firebass Like System
+8. Updated Firebass Dislike System
+9. Updated Shear Function
