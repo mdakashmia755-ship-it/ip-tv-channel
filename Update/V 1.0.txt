@@ -1,0 +1,7 @@
+V 1.0 
+
+Bug fixes 
+
+Updated Time 
+
+Github API Connect 
