@@ -161,3 +161,8 @@ https://sm-monirul.top/Toffee/live.php?id=sonyaath&e=.m3u8
 
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="SONY Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEddADIeCLYSWyxFoUAPqxaZs3ajQFQCFlsQ&s" group-title="Bangladesh/Entertainment/Drama",Sony Aath
 https://sm-monirul.top/Toffee/live.php?id=sonyaath&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="India/Sports/Football",SONY SPORTS TEN 1
+https://sm-monirul.top/Toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="Sony Then 2" tvg-name="Sony Then 2" tvg-logo="" group-title="",
