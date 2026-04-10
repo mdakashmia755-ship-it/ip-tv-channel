@@ -1,0 +1,19 @@
+V3.0 
+
+
+Bug Fixes
+Added Verson Logs
+Added Comment System
+Added LogIn & LogOut System Button (By Defult Google)
+Added Warning (Spam, Scam, Bad Words, Limit, Block, Response)
+Added Reply System
+Added Comments (Like, Dislike, Emoji Like)
+
+Updated Scam Function
+Updated Spam Function
+Update Bad Words
+
+UPDATED SECURITY SYSTEM (!IMPORTANT)
+
+
+Fore More Info https://www.akashmiaofficial.icu/update-logs
