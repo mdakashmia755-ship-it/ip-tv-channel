@@ -5,6 +5,9 @@
 https://playztv-apps.pages.dev/tsports/index.m3u8
 #https://yupptv.rkdyiptv.workers.dev/live/3550.m3u8
 
+#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde-LdH5YtYWGgbSkus3j10fgJ0DB58-ZGTxAOdw51cg&s=10" group-title="Bangladesh/Sports/Genarel",T Sports
+https://yupptv.rkdyiptv.workers.dev/live/3550.m3u8
+
 #EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxftj7E-cjezduzYotuqzKjjLpQDE3HCY2LA&s" group-title="Pakistan/Sports/Genarel",PTV Sports
 https://playztv-apps.pages.dev/ptvsports/index.m3u8
 
