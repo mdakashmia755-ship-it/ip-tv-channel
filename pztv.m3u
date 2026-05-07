@@ -5,8 +5,8 @@
 https://playztv-apps.pages.dev/tsports/index.m3u8
 #https://yupptv.rkdyiptv.workers.dev/live/3550.m3u8
 
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde-LdH5YtYWGgbSkus3j10fgJ0DB58-ZGTxAOdw51cg&s=10" group-title="Bangladesh/Sports/Genarel",T Sports
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=ad4d34f6f53cedd35e10d11dcb168aa03d0a4be6-839f7f175c57c49842843bec2358cb97-1778106927-1778096127
+#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde-LdH5YtYWGgbSkus3j10fgJ0DB58-ZGTxAOdw51cg&s=10" group-title="Bangladesh/Sports/Genarel",T Sports 2
+https://roar.hexvai56.workers.dev/edge2/tsports.m3u8
 
 #EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxftj7E-cjezduzYotuqzKjjLpQDE3HCY2LA&s" group-title="Pakistan/Sports/Genarel",PTV Sports
 https://playztv-apps.pages.dev/ptvsports/index.m3u8
