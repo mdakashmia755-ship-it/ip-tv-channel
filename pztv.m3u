@@ -165,9 +165,11 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="SONY Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEddADIeCLYSWyxFoUAPqxaZs3ajQFQCFlsQ&s" group-title="India/Entertainment/Drama",Sony Aath
 https://mflixott.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
+#https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=ff3c7fc49215ed3ca9480f841e82d04188df9516-0c49cc5e1d8e1002b2381b01a73ab13a-1780005243-1779994443
 
 #EXTINF:-1 tvg-id="Sony Aath" tvg-name="SONY Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEddADIeCLYSWyxFoUAPqxaZs3ajQFQCFlsQ&s" group-title="Bangladesh/Entertainment/Drama",Sony Aath
 https://mflixott.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
+#https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=ff3c7fc49215ed3ca9480f841e82d04188df9516-0c49cc5e1d8e1002b2381b01a73ab13a-1780005243-1779994443
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="India/Sports/Football",SONY SPORTS TEN 1
 https://sm-monirul.top/Toffee/live.php?id=sony_sports_1_hd&e=.m3u8
