@@ -135,9 +135,11 @@ https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="starjalsha" tvg-name="Star Jalsha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4vbXxw9q4TGBZZI5f86LnnGNAZiFulZ8urUHmbM2Ag&s=10" group-title="India/Entertainment/Drama",Star Jalsha
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+#https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="starjalsha" tvg-name="Star Jalsha" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4vbXxw9q4TGBZZI5f86LnnGNAZiFulZ8urUHmbM2Ag&s=10" group-title="Bangladesh/Entertainment/Drama",Star Jalsha
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+#https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_sREKoeDlmzidkIJ7wT4gWu5k_1jEOI9fKmjiPAVQ-A&s=10" group-title="India/Entertainment/Drama",Zee Bangla
 https://playztv-apps.pages.dev/zee-bangla/index.m3u8
