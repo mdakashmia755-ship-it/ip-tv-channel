@@ -19,6 +19,7 @@ https://seconds-matthew-singer-keith.trycloudflare.com/live.m3u8
 
 #EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxftj7E-cjezduzYotuqzKjjLpQDE3HCY2LA&s" group-title="Pakistan/Sports/Genarel",PTV Sports
 https://playztv-apps.pages.dev/ptvsports/index.m3u8
+#https://live6.asimxtech.online/ptv/index.m3u8
 
 #EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8b0GP1SR9v1wl67axZLhd5pGbwht1pSKlA&s" group-title="Pakistan/Sports/Genarel",A Sports
 https://playztv-apps.pages.dev/asports/index.m3u8
