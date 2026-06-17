@@ -1,10 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
-https://pico.kheladekho.xyz/hls/bdix4/index.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb553d1e786c648d9fd43d63d4ef41a4da243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756cd9e0a957f378bbdbe306f2c180680585ee2be5da5edf559108b6ba5b74848882942e2825fc8d54aba9ddc09cd449b22a4139a9aa6d9d2138781c4011066884061cdb654e3e25bb78b3794db946e359d752d55162789c9f1df7d4c4dc3de3e829beaac6cfe69a5e19c4a4845de24904e8f31c81cc2b209d03cc18ec1b1664938afc51b452eb6ecb383f43b71d20e410cd8af112dca8c715c4fc866d9684d52f4ac9944d19154fe1e42f431d95f83594f12bbe44e27af609fb2aa0580add58b344301470c038d5c98570cb126f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f4c2ced247c70e01afc9817659d695fd66273a80e75c869d48c01d9eb9be90f30b09ee047fc64e0fc4af1fe10a660391653e7aa620f0b1c3380ae550c3678d14cab8699b6395a569e82a794f75a36033600414cdab29517b5ba80784d589129650a1237189903da6ca5706a083cc613d6ec4434b20f2f29e9b02c1f3d4893dbba9588c6c026e22b33ae51e9f98a3f472ec33b75d133d126cb65f8d67b571d/74/1280x720_3738192/index.m3u8
@@ -24,7 +23,8 @@ https://live4.asimxtech.online/tsports2/index.m3u8
 https://seconds-matthew-singer-keith.trycloudflare.com/live.m3u8
 
 #EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxftj7E-cjezduzYotuqzKjjLpQDE3HCY2LA&s" group-title="Pakistan/Sports/Genarel",PTV Sports
-https://playztv-apps.pages.dev/ptvsports/index.m3u8
+https://pico.kheladekho.xyz/hls/bdix4/index.m3u8
+#https://playztv-apps.pages.dev/ptvsports/index.m3u8
 #https://live6.asimxtech.online/ptv/index.m3u8
 
 #EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8b0GP1SR9v1wl67axZLhd5pGbwht1pSKlA&s" group-title="Pakistan/Sports/Genarel",A Sports
