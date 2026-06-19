@@ -16,7 +16,7 @@ https://pico.kheladekho.xyz/hls/bdix4/index.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde-LdH5YtYWGgbSkus3j10fgJ0DB58-ZGTxAOdw51cg&s=10" group-title="Bangladesh/Sports/Genarel",T Sports
-https://mflixott.com/tv/dd/live.php?id=270&cid=270
+https://eprime.nav.bd/stream-proxy?url=https://mflixott.com/tv/dd/live.php?id=270&cid=270
 
 #EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxftj7E-cjezduzYotuqzKjjLpQDE3HCY2LA&s" group-title="Pakistan/Sports/Genarel",PTV Sports
 https://pico.kheladekho.xyz/hls/bdix4/index.m3u8
