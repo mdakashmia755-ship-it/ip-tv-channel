@@ -12,8 +12,20 @@ https://ataide0.formaturamaxi.com.br/tsn.m3u8
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
 https://cp11.adabmedia.com/hls2/sport.m3u8
 
+#EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
+https://sportixa.pages.dev/drm?url=https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd&kid=433ffba670963e70857859a9dff4be04&key=51ede3a821229fe81e71282c8eff80e3
+
+#EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
+https://sportixa.pages.dev/drm?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d
+
+#EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
+https://sportixa.pages.dev/drm?url=https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd&kid=14eeabf30c14b7fbf3008c03099ce011&key=17d2ac8dbc5429bd70af3433aa12158d
+
+#EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
+https://ajmaineapibd.vercel.app/api/proxy?url=aHR0cHM6Ly9saXZlY2RuLWJwLWlwdHYucnVtc3BvcnQ3LmxpdmUvbGl2ZV9hYnIvNDUxLzcyMHAvY2h1bmtzLm0zdTg%2FaXNfdmlwPWZhbHNlJnRva2VuPWJmMTk5N2M5ZWVjMjdkZDA1ZjkxOWUyZGM0NmM4ZjJkMjQyY2U5NmImeC1zaWduPTMyMmZhZjZjM2NhYWIzMGI0YzM5ZjBhYjhiMTVlYmExJngtdGltZT0xNzgyMDcxMTYw&b64=1&ref=aHR0cHM6Ly9pZnJhbWUucnVtc3BvcnQxMC5saXZlLw%3D%3D&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBLKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTIwLjAuMC4wIE1vYmlsZSBTYWZhcmkvNTM3LjM2
+
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",BTV FIFA
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+https://ajmaineapibd.vercel.app/api/proxy?url=aHR0cHM6Ly9saXZlY2RuLXRjLWxpdmVzdHJlYW0ucnVtc3BvcnQxMC5saXZlL3N0cmVhbS8yL2NodW5rcy5tM3U4P2lzX3ZpcD1mYWxzZSZ0b2tlbj0xNzgyMTU3NTk1LUt2NGNQVEFBUDVZVGktYmYxOTk3YzllZWMyN2RkMDVmOTE5ZTJkYzQ2YzhmMmQyNDJjZTk2Yi1lMmIyM2U4NDU5OWMxMTZmNzM1NWJkYzY0NzFkYzE3OQ%3D%3D&b64=1&ref=aHR0cHM6Ly9pZnJhbWUucnVtc3BvcnQxMC5saXZlLw%3D%3D&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBLKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTIwLjAuMC4wIE1vYmlsZSBTYWZhcmkvNTM3LjM2&ekey=SPORTIX_SECURE_KEY_2026
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",ZEE BANGLA SONAR
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
