@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
+https://live05.msdht.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
+https://ataide0.formaturamaxi.com.br/tsn.m3u8
+
+#EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
+https://cp11.adabmedia.com/hls2/sport.m3u8
+
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",BTV FIFA
 https://tv.beyondtaxconsultants.com/api/robi/lps/http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
