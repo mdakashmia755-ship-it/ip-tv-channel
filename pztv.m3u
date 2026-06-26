@@ -1,13 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+https://iptvproxy.mdakashmia755.workers.dev/?url=http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
+#https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
 https://live05.msdht.app/live/24561735.m3u8
+https://live4.asimxtech.online/tsports3/index.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",UNITED 8 SPORTS
-https://live6.asimxtech.online/ptv/index.m3u8
+https://sm-monirul.top/ott/iscreen/index.m3u8
+#https://live6.asimxtech.online/ptv/index.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
 https://sports.abdullahroman276.workers.dev/live/roman368/01726686368/9477.m3u8
@@ -16,7 +19,12 @@ https://sports.abdullahroman276.workers.dev/live/roman368/01726686368/9477.m3u8
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+https://sm-monirul.top/tof/live/gervsivo/index.m3u8
+#https://sm-monirul.top/tof/live/ecuvscur/index.m3u8
+#https://sm-monirul.top/tof/live/tunvsjap/index.m3u8
+#https://sm-monirul.top/tof/live/toffee4/index.m3u8
+#https://sm-monirul.top/tof/live/toffee5/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",ZEE BANGLA SONAR
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -40,10 +48,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde-LdH5YtYWGgbSkus3j10fgJ0DB58-ZGTxAOdw51cg&s=10" group-title="Bangladesh/Sports/Genarel",T Sports
-https://iptvproxy.mdakashmia755.workers.dev/?url=http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
-
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQde-LdH5YtYWGgbSkus3j10fgJ0DB58-ZGTxAOdw51cg&s=10" group-title="Bangladesh/Sports/Genarel",T Sports 2
-https://iptvproxy.mdakashmia755.workers.dev/?url=http://starhub.pro/live/farhat-3379/67897-913379/18452.ts
+https://trs1.aynaott.com/tsports/index.m3u8
+#https://live4.asimxtech.online/tsports3/index.m3u8
 
 #EXTINF:-1 tvg-id="ptvsports" tvg-name="PTV Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxftj7E-cjezduzYotuqzKjjLpQDE3HCY2LA&s" group-title="Pakistan/Sports/Genarel",PTV Sports
 https://live6.asimxtech.online/ptv/index.m3u8
