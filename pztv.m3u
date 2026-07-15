@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP 1
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FIFA" tvg-name="FIFA WORLD CUP" tvg-logo="https://cdn.jsdelivr.net/gh/splshameem420/IPTV@main/LOGOS/FIFA%20WORLD%20CUP.jpg" group-title="FIFA 2026/FIFA WORLD CUP/GENERAL",FIFA WORLD CUP 2
